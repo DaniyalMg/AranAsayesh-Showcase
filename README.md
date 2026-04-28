@@ -1,6 +1,6 @@
 <div dir="rtl" style="text-align: right; line-height: 1.8;">
 
-# 💳 AranAsayesh Backend | هسته مرکزی پلتفرم کارت‌های تخفیف سازمانی
+# 💳 AranAsayesh | پلتفرم کارت‌های تخفیف سازمانی
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-4.x-green?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
@@ -8,7 +8,7 @@
 [![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-lightgrey?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 
 <div dir="rtl" style="text-align: right; line-height: 1.6;">
-<strong>AranAsayesh Backend</strong> یک سیستم مقیاس‌پذیر و امن برای مدیریت چرخه عمر کارت‌های تخفیف (<span dir="ltr">Gift Cards & Vouchers</span>) در محیط‌های B2B است. این API به مجموعه‌های تجاری (مانند پاساژها، برندها و سازمان‌ها) اجازه می‌دهد تا سیستم‌های وفاداری مشتریان خود را به صورت دیجیتالی و خودکار مدیریت کنند.
+<strong>AranAsayesh</strong> یک سیستم مقیاس‌پذیر و امن برای مدیریت چرخه عمر کارت‌های تخفیف (<span dir="ltr">Gift Cards & Vouchers</span>) در محیط‌های B2B است. این API به مجموعه‌های تجاری (مانند پاساژها، برندها و سازمان‌ها) اجازه می‌دهد تا سیستم‌های وفاداری مشتریان خود را به صورت دیجیتالی و خودکار مدیریت کنند.
 </div>
 > ⚠️ **توجه:** این مخزن شامل کدهای **Backend** است. رابط کاربری (Frontend) که با **React.js** نوشته شده، در ریپازیتوری جداگانه‌ای قرار دارد.
 
